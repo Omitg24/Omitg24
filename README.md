@@ -77,14 +77,9 @@ In the future (probably after finishing my studies) I would like to learn more t
 </p>
 
 <h3 align="left">GitHub Analytics:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omitg24&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="omitg24" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omitg24&theme=dark&hide_border=false" alt="omitg24" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omitg24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="omitg24" />
+<p align="center">
+  <a href="https://github.com/Omitg24">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Omitg24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Omitg24&layout=compact&langs_count=8&theme=dark"/>
+  </a>
 </p>
