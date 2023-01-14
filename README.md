@@ -22,11 +22,14 @@
 I'm a spanish 20 yo who is very interested in everything related to Technology, I love learning new things about software (or hardware, which I'm tend to learn for myself).
 </p>
 <p align="justify">
-In the future (probably after finishing my studies) I would like to learn more things, such as Artificial Intelligence, Cybersecurity of Videogames developing, mostly because these are the things that are raising up very quickly and would be helpful to me experience, except for videogames, cause the main reason why I'm interested in, is because of growing up playing famous sagas (eg God of War), and would like to help bringing more of this.
+But I'm also interested in other things, such as cinema (I love going to the cinema and watch almost every movie genre) or videogames, which I grew up playing them.
 </p>
 <p align="center">
   <img src="Multimedia/the_batman.gif" alt="The Batman gif" width="400">
   <img src="Multimedia/god_of_war.gif" alt="God of War gif" width="400">
+</p>
+<p align="justify">
+In the future (probably after finishing my studies) I would like to learn more things, such as Artificial Intelligence, Cybersecurity or Videogames developing, mostly because these are the things that are raising up very quickly and would be helpful to me experience, except for videogames, cause the main reason why I'm interested in, is because of growing up playing famous sagas (eg God of War), and would like to help bringing more of this.
 </p>
 
 <h3 align="left">Connect with me:</h3>
