@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omitg24&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="omitg24" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/omitg_yt" target="blank"><img src="https://img.shields.io/twitter/follow/omitg_yt?logo=twitter&style=for-the-badge" alt="omitg_yt" /></a> </p>
-
 - 🔭 I’m currently studying **Software Engineering**.
 
 - 🌱 I’m currently learning **everything the university tells me to**.
