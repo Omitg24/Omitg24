@@ -32,13 +32,13 @@ In the future (probably after finishing my studies) I would like to learn more t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/omitg_yt" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omitg_yt" height="30" width="40" />
+  <a href="https://twitter.com/Omitg24" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Omitg24" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/omitg" target="blank">
+  <a href="https://stackoverflow.com/users/19385331/omitg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="omitg" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/omitg" target="blank">
+  <a href="https://www.youtube.com/@omitg2276" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omitg" height="30" width="40" />
   </a>
   <a href="https://discord.gg/#7725" target="blank">
