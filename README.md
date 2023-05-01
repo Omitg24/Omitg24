@@ -17,7 +17,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="justify">
-I'm a spanish 20 yo who is very interested in everything related to Technology, I love learning new things about software (or hardware, which I'm tend to learn for myself).
+I'm a spanish 21 yo who is very interested in everything related to Technology, I love learning new things about software (or hardware, which I'm tend to learn for myself).
 </p>
 <p align="justify">
 But I'm also interested in other things, such as cinema (I love going to the cinema and watch almost every movie genre) or videogames, which I grew up playing them.
