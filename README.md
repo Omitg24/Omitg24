@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything the university tells me to**.
 
-- 🤝 I’m looking for help with **Artificial intelligence**.
+- 🤝 I’m looking for help with **Artificial intelligence, Front-end development**.
 
 - 📫 How to reach me **omartg24@gmail.com**.
 
