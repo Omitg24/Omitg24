@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything the university tells me to**.
 
-- 🤝 I’m looking for help with **Artificial intelligence, Front-end development**.
+- 🤝 I’m looking for help with **Artificial intelligence, Full Stack development**.
 
 - 📫 How to reach me **omartg24@gmail.com**.
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="justify">
-I'm a spanish 21 yo who is very interested in everything related to Technology, I love learning new things about software (or hardware, which I'm tend to learn for myself).
+I'm a spanish 21 yo who is very interested in everything related to Technology, I love learning new things about software (or hardware, which I tend to learn by myself).
 </p>
 <p align="justify">
 But I'm also interested in other things, such as cinema (I love going to the cinema and watch almost every movie genre) or videogames, which I grew up playing them.
@@ -27,7 +27,7 @@ But I'm also interested in other things, such as cinema (I love going to the cin
   <img src="Multimedia/god_of_war.gif" alt="God of War gif" width="400">
 </p>
 <p align="justify">
-In the future (probably after finishing my studies) I would like to learn more things, such as Artificial Intelligence, Cybersecurity or Videogames developing, mostly because these are the things that are raising up very quickly and would be helpful to me experience, except for videogames, cause the main reason why I'm interested in, is because of growing up playing famous sagas (eg God of War), and would like to help bringing more of this.
+In the future (probably after finishing my studies) I would like to learn more things, such as Artificial Intelligence, Cybersecurity or Videogames development, mostly because these are the things that are raising up very quickly and would be helpful to me experience, except for videogames, cause the main reason why I'm interested in, is because of growing up playing them (eg God of War), and I would like to be part of it.
 </p>
 
 <h3 align="left">Connect with me:</h3>
