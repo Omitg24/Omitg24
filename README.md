@@ -47,8 +47,8 @@
   In the future, particularly after completing my studies, I aspire to delve into emerging fields like Artificial Intelligence and Video Game Development. These rapidly evolving domains not only captivate my interest but also hold immense potential for professional growth and contribution. I am eager to acquire knowledge and skills in these areas, as they represent dynamic sectors at the forefront of technological advancement. By immersing myself in Artificial Intelligence and Video Game Development, I aim to not only enhance my expertise but also actively contribute to the exciting developments unfolding in these industries.
 </p>
 <p style="display: flex; gap: 2em" align="center">
-  <img src="Multimedia/GodOfWar.gif" width="50%">
-  <img src="Multimedia/TheBatman.gif" width="50%">
+  <img src="Multimedia/GodOfWar.gif" width="40%">
+  <img src="Multimedia/TheBatman.gif" width="40%">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
