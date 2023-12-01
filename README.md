@@ -26,7 +26,7 @@
   <a href="https://twitter.com/_omartg_24" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_omartg_24" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/omitg" target="blank">
+  <a href="https://stackoverflow.com/users/19385331/omitg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="omitg" height="30" width="40" />
   </a>
   <a href="https://fb.com/omar.teixeiragonzalez" target="blank">
@@ -35,7 +35,7 @@
   <a href="https://instagram.com/_omartg_24" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_omartg_24" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/omitg" target="blank">
+  <a href="https://www.youtube.com/@Omitg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omitg" height="30" width="40" />
   </a>
 </p>
