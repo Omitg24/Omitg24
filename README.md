@@ -42,9 +42,9 @@
 
 <h3 align="left">About me:</h3>
 <p align="justify">
-  I'm a spanish 22 yo who is very interested in everything related to Technology, I love learning new things about software (or hardware, which I tend to learn by myself).
-  <br>
-  In the future, particularly after completing my studies, I aspire to delve into emerging fields like Artificial Intelligence and Video Game Development. These rapidly evolving domains not only captivate my interest but also hold immense potential for professional growth and contribution. I am eager to acquire knowledge and skills in these areas, as they represent dynamic sectors at the forefront of technological advancement. By immersing myself in Artificial Intelligence and Video Game Development, I aim to not only enhance my expertise but also actively contribute to the exciting developments unfolding in these industries.
+  I am a 23-year-old Spanish student with a strong passion for technology and innovation. I am particularly enthusiastic about learning new concepts in both software and hardware, often exploring the latter through self-study.
+
+Currently studying Artificial Intelligence at UPM, where I am deepening my understanding of advanced technologies and their real-world applications.
 </p>
 <p style="display: flex; gap: 2em" align="center">
   <img src="Multimedia/GodOfWar.gif" width="40%">
