@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omar Teixeira González</h1>
-<h3 align="center">Software Engineering Student at University of Oviedo</h3>
+<h1 align="center">Omar Teixeira González</h1>
+<h3 align="center">Software Engineer</h3>
+<h3 align="center">MSc on Artificial Intelligence at UPM</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omitg24&label=Profile%20views&color=c40000&style=flat" alt="omitg24" /> </p>
 
@@ -9,17 +10,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently studying [Software Engineering](https://ingenieriainformatica.uniovi.es/)
+- 🔭 Currently studying [Artificial Intelligence](https://muia.dia.fi.upm.es/es/)
 
-- 🌱 I’m currently learning **everything the university tells me to.**
+- 🌱 Currently learning **AI related stuff**
 
-- 🤝 I’m looking for help with **Artificial Intelligence, Front-End development**
+- 👨‍💻 My projects are available at [my repositories](https://github.com/Omitg24?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Omitg24?tab=repositories)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **omartg24@gmail.com**
+- 📫 Reach me at **omartg24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
